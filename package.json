@@ -1,0 +1,22 @@
+{
+  "name": "neon-blitz",
+  "version": "1.0.1",
+  "description": "Prepare for a sensory overload in Neon Blitz – a pulse-pounding arcade experience that puts your reflexes to the ultimate test! Immerse yourself in a dazzling world of vibrant lights and electrifying action as you guide a luminous entity through a maze of neon obstacles. With each passing moment, the pace intensifies, challenging you to react with split-second precision. Dodge, weave, and dash through the luminous labyrinth, striving to etch your name atop the global leaderboard. Featuring sleek visuals and an adrenaline-fueled soundtrack, Neon Blitz offers an exhilarating escape from the mundane. Will you rise to the occasion and conquer the neon-infused chaos?",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fsaua/Neon-Blitz"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "axios": "^0.24.0",
+    "express": "^4.17.1",
+    "serpentine-quest": "1.0.0"
+  }
+}
